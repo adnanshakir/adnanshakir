@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanshakir&label=Profile%20views&color=0e75b6&style=flat" alt="adnanshakir" /> </p>
 
-- 🔭 I’m currently working on [my porfolio](https://adnanshakir.github.io/Responsive-Portfolio/)
+- 🔭 I’m currently working on [my portfolio](https://adnanshakir.github.io/Responsive-Portfolio/)
 
 - 🌱 I’m currently learning **Gsap**
 
