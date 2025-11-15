@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Adnan</h1>
+<h1>Hey, I'm Adnan</h1>
 <p><i><b>Fullstack Web Developer in Progress</b></i></p>
 
 <p> I am working toward becoming a fullstack developer, with a current focus on frontend development to secure an
