@@ -1,15 +1,16 @@
 <body>
 <p><i><b>Fullstack Web Developer in Progress</b></i></p>
 
-<p> I am working toward becoming a <i><b>fullstack developer</b></i>, with a current focus on <i><b>frontend development</b></i> to secure an
-    <i><b>internship or entry-level role</b></i>. I am actively strengthening my JavaScript logic while improving my UI implementation skills. </p>
-    
-<p> I plan to expand into <b>GSAP, Three.js</b>, and later <b>Next.js</b> as I continue improving my frontend stack and prepare for
-    fullstack development. </p>
+<p>I am working toward becoming a <i><b>fullstack developer</b></i>, with a current focus on <i><b>frontend development</b></i> to secure an
+<i><b>internship or entry-level role</b></i>.<p>I am currently building <b>React projects</b> to get more hands-on experience with React, while also having <b>started learning backend development</b>.</p>
+
 <p><b>Tech I use:</b>
-    HTML, CSS, JavaScript, Tailwind CSS, React (<i>basics</i>)
+HTML, CSS, JavaScript, Tailwind CSS, React
 </p>
+
 <p><b>Currently learning:</b>
-    Advanced JavaScript & UI implementation
+Advanced React, UI implementation, and backend fundamentals
 </p>
+<p>I plan to expand into <b>GSAP, Three.js</b>, and later <b>Next.js</b> as I continue improving my frontend stack and prepare for
+fullstack development.</p>
 </body>
