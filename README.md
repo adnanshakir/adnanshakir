@@ -1,16 +1,30 @@
-<body>
-<p><i><b>Fullstack Web Developer in Progress</b></i></p>
+<h2><b>Frontend Developer</b> | <i>React & JavaScript</i></h2>
 
-<p>I am working toward becoming a <i><b>fullstack developer</b></i>, with a current focus on <i><b>frontend development</b></i> to secure an
-<i><b>internship or entry-level role</b></i>.<p>I am currently building <b>React projects</b> to get more hands-on experience with React, while also having <b>started learning backend development</b>.</p>
-
-<p><b>Tech I use:</b>
-HTML, CSS, JavaScript, Tailwind CSS, React
+<p>
+I build <b>clean, responsive, and performance-focused</b> web applications using 
+<b>React</b> and modern <b>JavaScript</b>.
 </p>
 
-<p><b>Currently learning:</b>
-Advanced React, UI implementation, and backend fundamentals
+<p>
+My focus is on:
 </p>
-<p>I plan to expand into <b>GSAP, Three.js</b>, and later <b>Next.js</b> as I continue improving my frontend stack and prepare for
-fullstack development.</p>
-</body>
+
+<ul>
+  <li><b>Component-driven architecture</b></li>
+  <li><b>Reusable and maintainable code</b></li>
+  <li><b>Responsive UI implementation</b></li>
+  <li><b>Performance and accessibility</b></li>
+</ul>
+
+<p>
+Currently strengthening my <b><i>backend fundamentals</i></b> to better understand 
+full-stack application architecture.
+</p>
+
+<hr>
+
+<p>
+🌐 <b>Portfolio:</b> <a href="https://adnanxshakir.vercel.app">adnanxshakir.vercel.app</a><br>
+📩 <b>Email:</b> adnanxshakir780@gmail.com<br>
+💼 <b>Open to:</b> Frontend based Opportunities
+</p>
