@@ -1,4 +1,4 @@
-<h2><b>Frontend Developer</b> | <i>React & JavaScript</i></h2>
+<h1><b>MERN Developer</b></h1>
 
 <p>
 I build <b>clean, responsive, and performance-focused</b> web applications using 
