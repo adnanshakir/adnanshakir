@@ -26,5 +26,5 @@ full-stack application architecture.
 <p>
 🌐 <b>Portfolio:</b> <a href="https://adnanxshakir.vercel.app">adnanxshakir.vercel.app</a><br>
 📩 <b>Email:</b> adnanxshakir780@gmail.com<br>
-💼 <b>Open to:</b> Frontend based Opportunities
+💼 Open to Opportunities
 </p>
