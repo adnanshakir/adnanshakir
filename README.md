@@ -1,30 +1,55 @@
-<h1><b>MERN Developer</b></h1>
+<h1>
+<b>MERN Stack Developer</b>
+</h1>
 
 <p>
-I build <b>clean, responsive, and performance-focused</b> web applications using 
-<b>React</b> and modern <b>JavaScript</b>.
+I build <b>clean</b>, <b>responsive</b>, and <b>performance-focused</b> web applications using
+<b>React</b>, <b>Node.js</b>, and modern <b>JavaScript</b>.
 </p>
 
 <p>
-My focus is on:
+Focused on <b>Full-Stack Development</b>, <b>UI/UX</b>, and writing
+<b>scalable, maintainable code</b>.
 </p>
 
-<ul>
-  <li><b>Component-driven architecture</b></li>
-  <li><b>Reusable and maintainable code</b></li>
-  <li><b>Responsive UI implementation</b></li>
-  <li><b>Performance and accessibility</b></li>
-</ul>
+---
+
+### 📌 Featured Project
+
+<b><a href="https://github.com/adnanshakir/Capstone">Capstone</a></b>
+A full-stack web application currently under active development, focused on applying modern software engineering practices, scalable architecture, and real-world product development workflows.
+
+<b><a href="https://github.com/adnanshakir/movie-zilla">MovieZilla</a></b>
+Full-stack MERN movie discovery app with TMDB API, trailers, favorites, watch history, filters, infinite scroll, and cinematic UI.
+
+---
+### ⚡ Tech Stack
+
+#### Languages
 
 <p>
-Currently strengthening my <b><i>backend fundamentals</i></b> to better understand 
-full-stack application architecture.
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
 </p>
 
-<hr>
+#### Frontend
 
 <p>
-🌐 <b>Portfolio:</b> <a href="https://adnanxshakir.vercel.app">adnanxshakir.vercel.app</a><br>
-📩 <b>Email:</b> adnanxshakir780@gmail.com<br>
-💼 Open to Opportunities
+  <img src="https://skillicons.dev/icons?i=react,tailwind,redux" height="40" />
 </p>
+
+#### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" />
+</p>
+
+#### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" height="40" />
+</p>
+---
+
+📩 **Email:** [adnanxshakir780@gmail.com](mailto:adnanxshakir780@gmail.com)
+
+💼 **Open to Internship & Full-Stack Opportunities**
