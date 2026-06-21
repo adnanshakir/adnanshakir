@@ -4,12 +4,13 @@
 
 <p>
 I build <b>clean</b>, <b>responsive</b>, and <b>performance-focused</b> web applications using
-<b>React</b>, <b>Node.js</b>, and modern <b>JavaScript</b>.
-</p>
-
-<p>
-Focused on <b>Full-Stack Development</b>, <b>UI/UX</b>, and writing
+<b>React</b>, <b>Node.js</b>, and modern <b>JavaScript</b>.Focused on <b>Full-Stack Development</b>, <b>UI/UX</b>, and writing
 <b>scalable, maintainable code</b>.
+</p>
+<p>
+  <a href="https://x.com/adnanxshakir" target="_blank">X</a>
+  <a href="https://www.linkedin.com/in/kartikcode/" target="_blank">Linkedin</a>
+  <a href="mailto:adnanxshakir@gmail.com" target="_blank">Email</a>
 </p>
 
 ---
