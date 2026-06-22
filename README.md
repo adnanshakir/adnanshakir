@@ -7,9 +7,9 @@ I build <b>clean</b>, <b>responsive</b>, and <b>performance-focused</b> web appl
 <b>React</b>, <b>Node.js</b>, and modern <b>JavaScript</b>.Focused on <b>Full-Stack Development</b>, <b>UI/UX</b>, and writing
 <b>scalable, maintainable code</b>.
 </p>
-<p>
+<p align="center">
   <a href="https://x.com/adnanxshakir" target="_blank">X</a>
-  <a href="https://www.linkedin.com/in/kartikcode/" target="_blank">Linkedin</a>
+  <a href="in/adnan-shakir-245393368" target="_blank">Linkedin</a>
   <a href="mailto:adnanxshakir@gmail.com" target="_blank">Email</a>
 </p>
 
@@ -49,8 +49,3 @@ Full-stack MERN movie discovery app with TMDB API, trailers, favorites, watch hi
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" height="40" />
 </p>
----
-
-📩 **Email:** [adnanxshakir780@gmail.com](mailto:adnanxshakir780@gmail.com)
-
-💼 **Open to Internship & Full-Stack Opportunities**
