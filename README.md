@@ -20,32 +20,29 @@ I build <b>clean</b>, <b>responsive</b>, and <b>performance-focused</b> web appl
 <b><a href="https://github.com/adnanshakir/Capstone">Capstone</a></b>
 A full-stack web application currently under active development, focused on applying modern software engineering practices, scalable architecture, and real-world product development workflows.
 
-<b><a href="https://github.com/adnanshakir/movie-zilla">MovieZilla</a></b>
+<b><a href="movie-zilla-lemon.vercel.app">MovieZilla</a></b>
 Full-stack MERN movie discovery app with TMDB API, trailers, favorites, watch history, filters, infinite scroll, and cinematic UI.
 
+<b><a href="https://github.com/adnanshakir/Battle-Arena">Battle-Arena</a></b>
+An AI comparison platform where a user submits a prompt, two AI models generate responses, and a third AI evaluates both to recommend the better answer.
+
+<b><a href="https://github.com/adnanshakir/ecommerce-mern">E-Commerce</a></b>
+Full-stack MERN e-commerce platform with seller dashboard, dynamic cart and payments, product/variant management, and scalable backend logic using aggregation and secure Razorpay integration.
+
 ---
-### ⚡ Tech Stack
-
-#### Languages
-
-<p>
+<h3 align="center">
+ Tech Stack
+</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" />
-</p>
 
-#### Frontend
-
-<p>
   <img src="https://skillicons.dev/icons?i=react,tailwind,redux" height="40" />
-</p>
 
-#### Backend
-
-<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" />
+
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" height="40" />
 </p>
 
-#### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" height="40" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adnanshakir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
