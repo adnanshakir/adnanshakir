@@ -27,19 +27,6 @@ Building scalable web applications • Exploring AI • Learning Cloud & DevOps
 </p>
 
 ---
-
-### 📌 Featured Projects
-
-<b><a href="https://github.com/adnanshakir/Capstone">CodeOrbit (Capstone)</a></b> — *An **AI-powered cloud development platform** that enables users to generate, edit, and preview applications inside **isolated containerized environments**. Built with a **microservices architecture**, **LLM-assisted development**, and **Kubernetes-based sandbox orchestration** for scalable browser-based development.*
-
-<b><a href="https://movie-zilla-lemon.vercel.app">MovieZilla</a></b> — *A **full-stack MERN movie discovery platform** that helps users explore, organize, and track movies through **TMDB integration**, **favorites**, **watch history**, **advanced filtering**, and a polished **cinematic user experience**.*
-
-<b><a href="https://github.com/adnanshakir/Battle-Arena">Battle Arena</a></b> — *An **AI comparison platform** where multiple **LLMs compete** to answer the same prompt while another AI **evaluates** their responses to recommend the most accurate and useful answer.*
-
-<b><a href="https://github.com/adnanshakir/ecommerce-mern">E-Commerce</a></b> — *A **production-style MERN e-commerce platform** featuring **seller dashboards**, **secure Razorpay payments**, **product and inventory management**, **dynamic carts**, and a **scalable backend** powered by **MongoDB aggregation pipelines**.*
-
-
----
 <h3 align="center">
  Tech Stack
 </h3>
