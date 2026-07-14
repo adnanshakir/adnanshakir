@@ -26,32 +26,6 @@ Started with the <b>MERN Stack</b>, building web applications with a focus on <b
 Building scalable web applications • Exploring AI • Learning Cloud & DevOps
 </p>
 
----
-<h3 align="center">
- Tech Stack
-</h3>
-<table align="center">
-  <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>DevOps</th>
-    <th>Tools</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,react,redux,tailwind" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,vercel" />
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adnanshakir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
