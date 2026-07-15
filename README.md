@@ -7,27 +7,23 @@ Started with the <b>MERN Stack</b>, building web applications with a focus on <b
 </p>
 
 
-<p align="center">
+<p>
 <a href="https://x.com/adnanxshakir">
-    <img src="https://cdn.simpleicons.org/x/white" height="32" />
+    <img src="https://cdn.simpleicons.org/x/white" height="20" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/adnan-shakir-245393368">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="24" />
   </a>
   &nbsp;
   <a href="mailto:adnanxshakir@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="24" />
   </a>
 </p>
 
 
-<p align="center">
-Building scalable web applications • Exploring AI • Learning Cloud & DevOps
-</p>
 
-
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=adnanshakir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
