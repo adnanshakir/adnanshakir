@@ -1,9 +1,7 @@
-<h1>
-<b>Full-Stack Developer</b>
-</h1>
-
 <p>
-Started with the <b>MERN Stack</b>, building web applications with a focus on <b>performance</b>, <b>clean architecture</b>, and <b>intuitive user experiences</b>. Later explored <b>Generative AI</b> by building applications with <b>LangChain</b> and modern LLMs. Currently learning <b>DevOps</b>, including <b>Docker</b>, <b>Kubernetes</b>, and <b>AWS</b>, while applying them to real-world projects (CodeOrbit).
+Hi,👋 I'm a <b>Full Stack Developer</b> building modern web apps. I primarily work with <b>JavaScript</b>,
+<b>React</b>, <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b>, and <b>Tailwind CSS</b>. I'm currently expanding my toolkit
+with <b>Next.js</b> and <b>TypeScript</b>. I also build Al-powered features using <b>LangChain</b>.
 </p>
 
 
