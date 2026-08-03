@@ -7,21 +7,16 @@ with <b>Next.js</b> and <b>TypeScript</b>. I also build Al-powered features usin
 
 <p>
 <a href="https://x.com/adnanxshakir">
-    <img src="https://cdn.simpleicons.org/x/white" height="20" />
+   <u>X</u>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/adnan-shakir-245393368">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="24" />
+    <u>Linkedin</u>
   </a>
   &nbsp;
   <a href="mailto:adnanxshakir@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="24" />
+    <u>Gmail</u>
   </a>
 </p>
 
-
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=adnanshakir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
